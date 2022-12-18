@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="signup">Create Account</string>
+    <string name="login">Login Form</string>
+    <string name="email_hint">Email Id</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Name</string>
+    <string name="contact_hint">Contact No.</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="signup_date_of_birth">Date Of Birth</string>
+    <string name="price_symbol">₹</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
